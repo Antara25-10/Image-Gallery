@@ -8,4 +8,4 @@ AUTHOR This image gallery  is created by Antara Gupta
 
 Source:https://github.com/Antara25-10/Image-Gallery
 
-Deloyed Link:
+Deployed Link:https://antara25-10.github.io/Image-Gallery/
