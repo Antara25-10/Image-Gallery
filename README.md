@@ -5,5 +5,7 @@ DESCRIPTION: This image gallery contains pictures of natural things. On clicking
 BUILD:Click on the repository "Image Gallery",see my project and I have also provided every thing I used in making this projec tsuccessfully.
 
 AUTHOR This image gallery  is created by Antara Gupta
-Source:
+
+Source:https://github.com/Antara25-10/Image-Gallery
+
 Deloyed Link:
